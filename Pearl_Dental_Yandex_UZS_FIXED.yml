@@ -1,0 +1,911 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-10-03T18:36:03+05:00">
+  <shop>
+    <name>Pearl Dental</name>
+    <company>Pearl Dental</company>
+    <url>https://pearldental.uz</url>
+    <categories>
+      <category id="1">Диагностика</category>
+      <category id="2">Терапевтическая стоматология</category>
+      <category id="3">Лечение Кариеса зубов</category>
+      <category id="4">Эндодонтия</category>
+      <category id="5">Ортопедическая стоматология</category>
+      <category id="6">Хирургическая Стоматология</category>
+      <category id="7">Имплантология</category>
+      <category id="8">Детская терапевтическая стоматология</category>
+      <category id="9">Ортодонтия</category>
+      <category id="10">Тотальная имплантация</category>
+    </categories>
+    <offers>
+      <offer id="pd-001">
+        <name>Первичная консультация главного врача с проведением цифровой 3D рентген диагностики и составлением плана лечения</name>
+        <vendor>Pearl Dental</vendor>
+        <price>500000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="pd-002">
+        <name>Консультация Терапевта стоматолога</name>
+        <vendor>Pearl Dental</vendor>
+        <price>200000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="pd-003">
+        <name>Консультация Ортопеда стоматолога</name>
+        <vendor>Pearl Dental</vendor>
+        <price>200000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="pd-004">
+        <name>Консультация Хирурга стоматолога</name>
+        <vendor>Pearl Dental</vendor>
+        <price>200000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="pd-005">
+        <name>Консультация врача — ортодонта</name>
+        <vendor>Pearl Dental</vendor>
+        <price>200000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="pd-006">
+        <name>Интраоральная рентгенография (Один снимок)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>70000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>1</categoryId>
+      </offer>
+      <offer id="pd-007">
+        <name>Карпульная анестезия Артикаин 4 % (производство Испания) 1 анестезия</name>
+        <vendor>Pearl Dental</vendor>
+        <price>150000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>2</categoryId>
+      </offer>
+      <offer id="pd-008">
+        <name>Карпульная анестезия Артикаин 4 % (производство Испания) 2 анестезии</name>
+        <vendor>Pearl Dental</vendor>
+        <price>280000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>2</categoryId>
+      </offer>
+      <offer id="pd-009">
+        <name>Пародонтальная иньекция (1 иньекция)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>123000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>2</categoryId>
+      </offer>
+      <offer id="pd-010">
+        <name>Пародонтальная иньекция (Полный курс)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>550000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>2</categoryId>
+      </offer>
+      <offer id="pd-011">
+        <name>Профессиональная чистка (включает в себя ультразвуковую чистку, AIR-flow, ручной кюретаж пародонтальных карманов)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>1200000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>2</categoryId>
+      </offer>
+      <offer id="pd-012">
+        <name>Снятие зубных отложений ультразвуковым методом (Одна челюсть)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>550000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>2</categoryId>
+      </offer>
+      <offer id="pd-013">
+        <name>Снятие зубных отложений ультразвуковым методом (Обе челюсти)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>800000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>2</categoryId>
+      </offer>
+      <offer id="pd-014">
+        <name>Применение AIR-FLOW</name>
+        <vendor>Pearl Dental</vendor>
+        <price>940000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>2</categoryId>
+      </offer>
+      <offer id="pd-015">
+        <name>Набор Протейперов 200 000</name>
+        <vendor>Pearl Dental</vendor>
+        <price>315000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>2</categoryId>
+      </offer>
+      <offer id="pd-016">
+        <name>Турбинного Наконечника</name>
+        <vendor>Pearl Dental</vendor>
+        <price>470000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>2</categoryId>
+      </offer>
+      <offer id="pd-017">
+        <name>Набора инструментов</name>
+        <vendor>Pearl Dental</vendor>
+        <price>627000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>2</categoryId>
+      </offer>
+      <offer id="pd-018">
+        <name>Индивидуальный заказ инструментов Набора ручных файлов</name>
+        <vendor>Pearl Dental</vendor>
+        <price>157000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>2</categoryId>
+      </offer>
+      <offer id="pd-019">
+        <name>Начальный кариес (Estelite Universal Flow жидкотекучий композит производство Япония)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>750000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>3</categoryId>
+      </offer>
+      <offer id="pd-020">
+        <name>Пломба из цемента</name>
+        <vendor>Pearl Dental</vendor>
+        <price>250000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>3</categoryId>
+      </offer>
+      <offer id="pd-021">
+        <name>Пломба из светоотверждаемого материала</name>
+        <vendor>Pearl Dental</vendor>
+        <price>400000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>3</categoryId>
+      </offer>
+      <offer id="pd-022">
+        <name>Один канальный зуб (Силлер Эндофил производство Швейцарария)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>550000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>4</categoryId>
+      </offer>
+      <offer id="pd-023">
+        <name>Двухканальный зуб (Силлер Эндофил производство Швейцарария)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>710000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>4</categoryId>
+      </offer>
+      <offer id="pd-024">
+        <name>Лечение периодонтита (в 3 посещения)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>500000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>4</categoryId>
+      </offer>
+      <offer id="pd-025">
+        <name>Отток содержимого канала одно 2х 3х канального зуба в первый визит</name>
+        <vendor>Pearl Dental</vendor>
+        <price>500000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>4</categoryId>
+      </offer>
+      <offer id="pd-026">
+        <name>Третье посещение постоянное пломбирование канала зуба</name>
+        <vendor>Pearl Dental</vendor>
+        <price>400000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>4</categoryId>
+      </offer>
+      <offer id="pd-027">
+        <name>Извлечение штифта анкерного</name>
+        <vendor>Pearl Dental</vendor>
+        <price>310000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>4</categoryId>
+      </offer>
+      <offer id="pd-028">
+        <name>Отбеливание Amazing white</name>
+        <vendor>Pearl Dental</vendor>
+        <price>3140000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>4</categoryId>
+      </offer>
+      <offer id="pd-029">
+        <name>Сканирование (интраоральный сканер) на  изготовление коронок 1.2 млн</name>
+        <vendor>Pearl Dental</vendor>
+        <price>1500000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>4</categoryId>
+      </offer>
+      <offer id="pd-030">
+        <name>Изготовление капы</name>
+        <vendor>Pearl Dental</vendor>
+        <price>1500000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>4</categoryId>
+      </offer>
+      <offer id="pd-031">
+        <name>Заказ сканмаркеров (скан-боди для цифровой стоматологии, одна единица)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>700000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>4</categoryId>
+      </offer>
+      <offer id="pd-032">
+        <name>Заказ трансферов и аналогов (одна единица)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>1500000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>4</categoryId>
+      </offer>
+      <offer id="pd-033">
+        <name>Краткая консультация (по результатам оценки полости рта)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>100000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-034">
+        <name>Снятие прежних коронок конструкций 1 ед</name>
+        <vendor>Pearl Dental</vendor>
+        <price>200000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-035">
+        <name>Металлическая и цельнолитая коронка</name>
+        <vendor>Pearl Dental</vendor>
+        <price>710000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-036">
+        <name>Цельнолитая коронка без напыления</name>
+        <vendor>Pearl Dental</vendor>
+        <price>550000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-037">
+        <name>Цельнолитая коронка штампованная коронка c напылением</name>
+        <vendor>Pearl Dental</vendor>
+        <price>590000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-038">
+        <name>Частично сьёмный протез</name>
+        <vendor>Pearl Dental</vendor>
+        <price>2350000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-039">
+        <name>Частично сьёмный протез бабочка</name>
+        <vendor>Pearl Dental</vendor>
+        <price>1220000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-040">
+        <name>Косметический полный сьёмный протез</name>
+        <vendor>Pearl Dental</vendor>
+        <price>880000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-041">
+        <name>Индивидуальная ложка</name>
+        <vendor>Pearl Dental</vendor>
+        <price>120000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-042">
+        <name>Снятие Слепка с 1 челюсти. С силиконом Zeta plus (Производство Италия)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>300000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-043">
+        <name>С 2х челюстей (С силиконом)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>500000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-044">
+        <name>Снятие слепка с А силиконом (Honigum)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>600000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-045">
+        <name>Изготовление металлокерамической коронки (Масса Duceram Германия)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>1500000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-046">
+        <name>Изготовление коронки из диоксида циркония с нанесением</name>
+        <vendor>Pearl Dental</vendor>
+        <price>5000000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-047">
+        <name>Full zirconia crown</name>
+        <vendor>Pearl Dental</vendor>
+        <price>3000000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-048">
+        <name>Изготовление пресс керамики коронки E.max</name>
+        <vendor>Pearl Dental</vendor>
+        <price>7060000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-049">
+        <name>Emax Изготовление коронки (эстетика+функция)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>8230000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-050">
+        <name>Изготовление индивидуального циркониевого абатмента</name>
+        <vendor>Pearl Dental</vendor>
+        <price>3140000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-051">
+        <name>Изготовление индивидуального временного абатмента</name>
+        <vendor>Pearl Dental</vendor>
+        <price>550000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-052">
+        <name>Изготовление пластмассовой коронки</name>
+        <vendor>Pearl Dental</vendor>
+        <price>500000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-053">
+        <name>Изготовление винира на рефракторе E-max</name>
+        <vendor>Pearl Dental</vendor>
+        <price>7060000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-054">
+        <name>Изготовление временной пластмассовой коронки</name>
+        <vendor>Pearl Dental</vendor>
+        <price>310000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-055">
+        <name>Изготовление временной пластмассовой коронки на импланте</name>
+        <vendor>Pearl Dental</vendor>
+        <price>880000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-056">
+        <name>Установка Стекловолоконного и металлического Штифта (1 шт)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>700000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-057">
+        <name>Билдап (build-up) 550 (одна единица)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>550000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-058">
+        <name>Цементация на цемент уницем (Производство Россия )1 й ортопедической коронки</name>
+        <vendor>Pearl Dental</vendor>
+        <price>160000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-059">
+        <name>Цементация на цемент Fuji (производство Япония цемент 1 й ортопедической коронки (1 ед)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>400000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-060">
+        <name>Фиксация на временный цемент (Южнокорейского производства) (одна единица)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>100000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-061">
+        <name>Фиксация неклинического моста пациента</name>
+        <vendor>Pearl Dental</vendor>
+        <price>500000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-062">
+        <name>Фиксация Виниров на Цемент Bisco США (одна единица)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>700000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>5</categoryId>
+      </offer>
+      <offer id="pd-063">
+        <name>Удаление подвижного зуба</name>
+        <vendor>Pearl Dental</vendor>
+        <price>550000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>6</categoryId>
+      </offer>
+      <offer id="pd-064">
+        <name>Удаление периоститного зуба</name>
+        <vendor>Pearl Dental</vendor>
+        <price>800000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>6</categoryId>
+      </offer>
+      <offer id="pd-065">
+        <name>Удаление зуба простое</name>
+        <vendor>Pearl Dental</vendor>
+        <price>750000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>6</categoryId>
+      </offer>
+      <offer id="pd-066">
+        <name>Консервация лунки костнопластическим материалом</name>
+        <vendor>Pearl Dental</vendor>
+        <price>1650000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>6</categoryId>
+      </offer>
+      <offer id="pd-067">
+        <name>Заполнение костного дефекта остеопластическим материалом Бельгийского производства (1 грамм биокости)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>3920000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>6</categoryId>
+      </offer>
+      <offer id="pd-068">
+        <name>Заполнение костного дефекта остеопластическим материалом Бельгийского производства (2 грамма биокости)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>6270000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>6</categoryId>
+      </offer>
+      <offer id="pd-069">
+        <name>Имплантация (цена за операцию, имплантант не входит в эту стоимость)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>2000000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-070">
+        <name>Healing abutment</name>
+        <vendor>Pearl Dental</vendor>
+        <price>220000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-071">
+        <name>Односторонний перелом</name>
+        <vendor>Pearl Dental</vendor>
+        <price>8780000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-072">
+        <name>Имплантация зубов (в зависемости от системы имплантата)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>5960000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-073">
+        <name>Standard абатмент</name>
+        <vendor>Pearl Dental</vendor>
+        <price>220000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-074">
+        <name>Индивидуальный абатмент</name>
+        <vendor>Pearl Dental</vendor>
+        <price>630000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-075">
+        <name>Установка имплантанта Osstem</name>
+        <vendor>Pearl Dental</vendor>
+        <price>7000000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-076">
+        <name>Установка имплантанта Strauman</name>
+        <vendor>Pearl Dental</vendor>
+        <price>15050000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-077">
+        <name>Установка имплантанта Nobel</name>
+        <vendor>Pearl Dental</vendor>
+        <price>16690000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-078">
+        <name>Закрытый синуслифтинг</name>
+        <vendor>Pearl Dental</vendor>
+        <price>5010000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-079">
+        <name>Открытый синуслифтинг</name>
+        <vendor>Pearl Dental</vendor>
+        <price>10540000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-080">
+        <name>Направленная костная регенерация</name>
+        <vendor>Pearl Dental</vendor>
+        <price>4700000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-081">
+        <name>Удаление ранее установленного имплантата</name>
+        <vendor>Pearl Dental</vendor>
+        <price>1090000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-082">
+        <name>Медикаметозная перевязка после операции</name>
+        <vendor>Pearl Dental</vendor>
+        <price>240000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-083">
+        <name>Забор крови для PRF (одна пробирка)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>300000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>7</categoryId>
+      </offer>
+      <offer id="pd-084">
+        <name>Реставрация передних зубов</name>
+        <vendor>Pearl Dental</vendor>
+        <price>1500000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>8</categoryId>
+      </offer>
+      <offer id="pd-085">
+        <name>Удаление молочного зуба</name>
+        <vendor>Pearl Dental</vendor>
+        <price>520000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>8</categoryId>
+      </offer>
+      <offer id="pd-086">
+        <name>Метод лечения пульпита с использованием девитализирующей пастой</name>
+        <vendor>Pearl Dental</vendor>
+        <price>390000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>8</categoryId>
+      </offer>
+      <offer id="pd-087">
+        <name>Лечение пульпита</name>
+        <vendor>Pearl Dental</vendor>
+        <price>630000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>8</categoryId>
+      </offer>
+      <offer id="pd-088">
+        <name>Наложение MTA</name>
+        <vendor>Pearl Dental</vendor>
+        <price>470000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>8</categoryId>
+      </offer>
+      <offer id="pd-089">
+        <name>Герметизация фиссур</name>
+        <vendor>Pearl Dental</vendor>
+        <price>570000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>8</categoryId>
+      </offer>
+      <offer id="pd-090">
+        <name>Профессиональная чистка</name>
+        <vendor>Pearl Dental</vendor>
+        <price>940000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>8</categoryId>
+      </offer>
+      <offer id="pd-091">
+        <name>Пломба из цемента</name>
+        <vendor>Pearl Dental</vendor>
+        <price>160000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>8</categoryId>
+      </offer>
+      <offer id="pd-092">
+        <name>Стальная коронка (Kinder)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>630000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>8</categoryId>
+      </offer>
+      <offer id="pd-093">
+        <name>Индивидуальный набор инструментов</name>
+        <vendor>Pearl Dental</vendor>
+        <price>2350000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>8</categoryId>
+      </offer>
+      <offer id="pd-094">
+        <name>Покрытие Фторлаком</name>
+        <vendor>Pearl Dental</vendor>
+        <price>160000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>8</categoryId>
+      </offer>
+      <offer id="pd-095">
+        <name>Медикаметозная обработка СОПР</name>
+        <vendor>Pearl Dental</vendor>
+        <price>120000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>8</categoryId>
+      </offer>
+      <offer id="pd-096">
+        <name>Invisalign Full</name>
+        <vendor>Pearl Dental</vendor>
+        <price>89850000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-097">
+        <name>Invisalign First (stage 1)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>46260000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-098">
+        <name>Invisalign First (stage 2)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>57620000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-099">
+        <name>Invisalign Express (до 7 капп)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>35280000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-100">
+        <name>Керамические брекеты на 1 челюсть</name>
+        <vendor>Pearl Dental</vendor>
+        <price>12540000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-101">
+        <name>Керамические самолигирующие брекеты на 1 челюсть</name>
+        <vendor>Pearl Dental</vendor>
+        <price>14430000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-102">
+        <name>Металлические самолигирующие брекеты на 1 челюсть</name>
+        <vendor>Pearl Dental</vendor>
+        <price>10820000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-103">
+        <name>Фиксация отклеенного 1 брекета</name>
+        <vendor>Pearl Dental</vendor>
+        <price>440000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-104">
+        <name>Пластинка на 1 челюсть</name>
+        <vendor>Pearl Dental</vendor>
+        <price>2350000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-105">
+        <name>Пластинка на 2 челюсти</name>
+        <vendor>Pearl Dental</vendor>
+        <price>3920000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-106">
+        <name>Активация брекет системы (1 челюсть)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>270000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-107">
+        <name>Активация брекет системы (2 челюсти)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>540000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-108">
+        <name>Снятие Бректов с одной челюсти</name>
+        <vendor>Pearl Dental</vendor>
+        <price>850000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-109">
+        <name>Установка несьёмных ретейнеров на 1 челюсть</name>
+        <vendor>Pearl Dental</vendor>
+        <price>730000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-110">
+        <name>Установка кнопки</name>
+        <vendor>Pearl Dental</vendor>
+        <price>310000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-111">
+        <name>Микроимплант</name>
+        <vendor>Pearl Dental</vendor>
+        <price>2040000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-112">
+        <name>Ретенционная пластинка</name>
+        <vendor>Pearl Dental</vendor>
+        <price>1570000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-113">
+        <name>Миотрейнер Miobrace</name>
+        <vendor>Pearl Dental</vendor>
+        <price>2510000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-114">
+        <name>Orthodontic face mask</name>
+        <vendor>Pearl Dental</vendor>
+        <price>3920000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-115">
+        <name>классическая пластинка Sсhwarz</name>
+        <vendor>Pearl Dental</vendor>
+        <price>2670000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-116">
+        <name>Аппарат Дерихсвайлера</name>
+        <vendor>Pearl Dental</vendor>
+        <price>3290000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-117">
+        <name>Аппарат MSE</name>
+        <vendor>Pearl Dental</vendor>
+        <price>5880000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-118">
+        <name>Аппарат Hyrex</name>
+        <vendor>Pearl Dental</vendor>
+        <price>5490000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-119">
+        <name>Пластинка на расширение в зависемости от Конструкции</name>
+        <vendor>Pearl Dental</vendor>
+        <price>2670000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-120">
+        <name>Заказ ёршиков для брекетов</name>
+        <vendor>Pearl Dental</vendor>
+        <price>310000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-121">
+        <name>Обточка зуба (преапарирование зуба под коронку) оплата вноситься заранее для одного зуба за 1 ед.</name>
+        <vendor>Pearl Dental</vendor>
+        <price>1000000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>9</categoryId>
+      </offer>
+      <offer id="pd-122">
+        <name>Изготовление балочной конструкции на мультиюнитах</name>
+        <vendor>Pearl Dental</vendor>
+        <price>10000000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>10</categoryId>
+      </offer>
+      <offer id="pd-123">
+        <name>Изготовление балочной конструкции на прямых абатментах ( отдельно балка)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>8000000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>10</categoryId>
+      </offer>
+      <offer id="pd-124">
+        <name>All on 4 / All on 6 на мультиюнитных абатментах (включает только зубы из диоксида циркония)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>37000000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>10</categoryId>
+      </offer>
+      <offer id="pd-125">
+        <name>All on 4 / All on 6 на прямых абатментах (включает только зубы из диоксида циркония)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>30000000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>10</categoryId>
+      </offer>
+      <offer id="pd-126">
+        <name>Под ключ All on 4 (одна челюсть, полная конфигурация)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>60000000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>10</categoryId>
+      </offer>
+      <offer id="pd-127">
+        <name>Под ключ All on 6 (одна челюсть, полная конфигурация)</name>
+        <vendor>Pearl Dental</vendor>
+        <price>70500000</price>
+        <currencyId>UZS</currencyId>
+        <categoryId>10</categoryId>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
